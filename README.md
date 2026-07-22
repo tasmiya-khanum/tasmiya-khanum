@@ -48,7 +48,7 @@
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Tasmiya.
  */
 ```
 
@@ -242,6 +242,3 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 ------
-Credit: [10Kartik](https://github.com/10Kartik)
-
-Last Edited on: 18/01/2024
